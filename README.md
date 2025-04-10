@@ -1,6 +1,7 @@
 RADAR DETECTION SYSTEM
 
-PROBLEM STATEMENT  
+PROBLEM STATEMENT 
+
 With the growing demand for efficient, cost-effective, and compact object detection systems in security, automation, and navigation, traditional radar systems remain expensive and complex. 
 Industries, educational institutions, and hobbyists require an affordable and scalable radar solution for various applications. 
 This project aims to develop a low-cost radar detection system using Arduino, integrating ultrasonic sensors and servo motors to detect and track objects in real-time.
@@ -8,6 +9,7 @@ The system will provide a user-friendly interface for visualization and can be e
  
  
 PROJECT OVERVIEW  
+
 The Arduino-based radar detection system is designed to provide an affordable and efficient solution for real-time object detection. 
 The system utilizes an ultrasonic sensor mounted on a rotating servo motor to scan a predefined area, measuring the distance of nearby objects. 
 The data collected is processed by an Arduino board and displayed graphically on a computer using Processing software. 
@@ -15,6 +17,7 @@ The system is intended for applications in security, robotics, and automation, p
 With its simple design and implementation, the project serves as an educational tool for students and hobbyists while demonstrating practical real-world applications.
  
 SOLUTION OFFERED 
+
 This project offers a low-cost, accessible, and effective solution for real-time object detection using simple yet efficient electronic components. The radar detection system built with Arduino and an ultrasonic sensor provides the following advantages:
 * Affordability : Uses inexpensive hardware components compared to commercial radar systems.
 * Ease of Implementation : Simple design with readily available electronic components.
@@ -25,6 +28,7 @@ By utilizing an ultrasonic sensor, a rotating servo motor, and Arduino-based pro
 It can be adapted for security surveillance, robotics, and industrial applications, making it an excellent alternative for small-scale radar solutions
  
 WHO ARE THE END USERS?  
+
 * Robotics enthusiasts and hobbyists
 * Students and researchers in electronics and automation
 * Security personnel for surveillance applications
@@ -38,6 +42,7 @@ WHO ARE THE END USERS?
 
  
 TECHNOLOGY USED TO SOLVE THE PROBLEM 
+
 The project leverages the following key technologies:
 * Arduino Uno : Microcontroller board for processing sensor data and controlling the system.
 * Ultrasonic Sensor (HC-SR04): Measures distance by emitting sound waves and detecting their reflection.
